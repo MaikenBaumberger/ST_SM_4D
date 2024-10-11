@@ -1,1 +1,4 @@
-**1_data_preparation:** The script starts at a point where a data set was created that contains the soil temperature and soil moisture measurement data at all depths as well as the temporally and spatially associated predictor data (meteorological data, soil data, land use, relief and satellite data). The data set is called data_set_complete.Rdata and can be found in the training_data folder.
+**1_data_preparation:** 
+The script starts at a point where a data set was created that contains the soil temperature and soil moisture measurement data at all depths as well as the temporally and spatially associated predictor data (meteorological data, soil data, land use, relief and satellite data). The data set is called [data_set_complete.Rdata](data_set_complete.Rdata) and can be found in the [training_data](training_data) folder.
+
+**2_forward_feature_selection_example_sm:** 
